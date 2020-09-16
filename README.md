@@ -22,7 +22,7 @@ Now, let’s see what they do at work. As the data reveals, the number one activ
 ### Graph 3: Spending on ML and/or Cloud Computing products in the past 5 years</br>
 ![](https://github.com/tmargary/kaggle_ml_ds_survey_2019/blob/master/graphs_new/3.png)
 
-We can also look at the kind of investments that the companies are currently making in this field, and it should come as little surprise that an increasing number of companies are investing in their Machine Learning and Cloud Computing capabilities. </br>
+We can also look at the kind of investments that the companies are currently making in this field, and it should come as little surprise that an increasing number of companies are investing in their Machine Learning and Cloud Computing capabilities. </br> 
 
 ### Graph 4: The number of individuals responsible for data science workloads based on the company size</br>
 ![](https://github.com/tmargary/kaggle_ml_ds_survey_2019/blob/master/graphs_new/4.png)
