@@ -30,9 +30,12 @@ Graph 4: The number of individuals responsible for data science workloads based 
 
 For a complete understanding of the industry, it’s also useful to look at where the companies are in terms of Machine Learning maturity. According to the graph, generally it’s the large corporations that have well-established Machine Learning methods in place; however, it’s promising that the rest of the companies are also exploring and experimenting with the perks that the ML can potentially deliver, starting from enhanced customer experience to more informed decisions.</br>
 
+Graph 5: Machine Learning maturity level</br>
+![](https://github.com/tmargary/kaggle_ml_ds_survey_2019/blob/master/graphs/5.png)
+
 In this context, when we look at what tools are used other than local development environments (such as RStudio or JupyterLab), we gain additional insights. As the graph shows, cloud-based software and APIs are the second widely used tools in this field (after IDEs, which is not in the graph), which became a defining trend in the past five years. AWS, for example, offers over 175 fully-featured services from data centers globally, which is a game-changer. Such services make the applications run faster, easier, and more cost-effective ways, which is unprecedented in the analytics field. Cloud services are an enabling factor for AI, too, which became the cornerstone to lots of companies. Just the fact that AI can be used to solve problems before they even occur makes it a potent tool, especially for detecting hardware failures. </br>
 
-Graph 5: The type of tools other than local development environments (JupyterLab, etc.)</br>
+Graph 6: The type of tools other than local development environments (JupyterLab, etc.)</br>
 ![](https://github.com/tmargary/kaggle_ml_ds_survey_2019/blob/master/graphs/5.png)
 
 Conclusion</br>
