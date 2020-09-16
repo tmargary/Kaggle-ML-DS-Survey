@@ -1,4 +1,4 @@
-# Who are the data scientists on Kaggle?
+# Trends in Data Science based on Kaggle's survay
 Based on Kaggle's third annual Machine Learning and Data Science Survey</br>
 
 One and half years ago, when I made my final decision to transition my career from banking to data science, I joined Kaggle, because that’s what you do when you’re a data scientist or when you want to become one. After a while of exploring the platform and seeing all the cool visualizations and Machine Learning projects, the first feeling was intimidation. I was thinking to myself if I ever can learn so much and eventually do projects of high quality that will drive action.</br>
