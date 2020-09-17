@@ -1,6 +1,6 @@
 # From Kaggle about Kagglers
 
-One and half years ago, when I made my final decision to transition my career from banking to data science, I joined Kaggle, because that’s what you do when you’re a data scientist or when you want to become one. After a while of exploring the platform and seeing all the cool visualizations and Machine Learning projects, the first feeling was intimidation. I was thinking to myself if I ever can learn so much and eventually do projects of high quality that will drive action. </br>
+One and half years ago, when I made my final decision to transition my career from banking to data science, I joined Kaggle, because, you know, that’s what you do when you’re a data scientist or when you want to become one. After a while of exploring the platform and seeing all the cool visualizations and Machine Learning projects, the first feeling was intimidation. I was thinking to myself if I ever can learn so much and eventually do projects of high quality that will drive action. </br>
 
 After some unproductive thoughts, the intimidation turned into immense motivation and enthusiasm. I said to myself, “Challenge Accepted,” and it’s going to be “Legendary!”</br>
 
