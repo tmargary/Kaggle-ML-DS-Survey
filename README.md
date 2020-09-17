@@ -8,7 +8,7 @@ Now, I pursue the career path I have always wanted, and when I remembered the on
 
 Let’s get started. </br>
 
-## Graph 1: Age and Gender & Role-Country Distribution
+## Graph 1: Age-Gender & Role-Country Distribution
 ![](https://github.com/tmargary/kaggle_ml_ds_survey_2019/blob/master/graphs/1.png)
 So, according to this graph, the majority are male, between 18-40 years old, predominantly from India and the USA. In terms of age, we have a wide distribution; however, in terms of gender, there is still a huge gap between males and females in this and other tech fields. It’s also notable that according to the second graph, we see that the majority of our target market are students from India, as well as Data Scientists and Software Engineers from the USA.</br>
 
