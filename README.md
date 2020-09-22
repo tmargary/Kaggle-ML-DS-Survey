@@ -41,4 +41,4 @@ In this context, when we look at what tools are used other than local developmen
 
 ## Conclusion</br>
 
-Data Science is growing, embedding itself in various industries regardless of their size and industry. Companies leverage the capabilities of Machine Learning and Data Science to run their businesses faster, easier, and in a more cost-effective ways. The field becomes more and more democratized, which augments human capabilities in various contexts. After all, ideally, this is all about better human experiences. </br>
+Data Science is growing, embedding itself in various industries regardless of their size and industry. Companies leverage the capabilities of Machine Learning and Data Science to run their businesses faster, easier, and in a more cost-effective ways. The field becomes more and more democratized, which augments human capabilities in various contexts. After all, ideally, this is all about better human experiences.</br>
