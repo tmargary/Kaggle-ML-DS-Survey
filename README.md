@@ -20,7 +20,7 @@ Now, let’s see what they do at work. As the data reveals, the number one activ
 ## Graph 3: Spending on ML and/or Cloud Computing products in the past 5 years</br>
 ![](https://github.com/tmargary/kaggle_ml_ds_survey_2019/blob/master/graphs/3.png)
 
-We can also look at the amount of investments that the companies are currently making in this field, and it should come as little surprise that an increasing number of companies are investing in their Machine Learning and Cloud Computing capabilities. </br>
+We can also look at the amount of investments that the companies are currently making in this field, and it should come as little surprise that an increasing number of companies are investing in their Machine Learning and Cloud Computing capabilities.</br>
 
 It’s fascinating that small companies (0-49 employees) are really active in the range from 100 to 99,999 dollars. On the other hand, it’s not surprising that large corporations dominate the investments above 100,000 dollars. Sure, while some companies do not invest in Machine Learning, the overall trend is that most do than those that don’t.</br>
 
